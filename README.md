@@ -1,19 +1,3 @@
 # Hello, my name is FranXis :)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
-name: FranXiss Readme
-
-on:
-  workflow_dispatch:
-  schedule:
-    # Runs at 12am UTC
-    - cron: "0 0 * * *"
-
-jobs:
-  update-readme:
-    name: Update this repo's README
-    runs-on: ubuntu-latest
-    steps:
-      - uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=FranXiss&show_icons=true&hide_border=true" />
