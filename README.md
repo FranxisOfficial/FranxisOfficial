@@ -16,4 +16,4 @@ Right now i have Dashactyl Modern and one New Script for it
 
 # 📊 Franxis Stats
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Franxis&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=FranxisOfficial&show_icons=true&hide_border=true" />
